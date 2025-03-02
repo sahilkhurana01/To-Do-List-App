@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/e3446e7b-8b2b-43da-8eb3-a0696a33add5
 
 # 📝 Next.js To-Do List App
 
@@ -75,7 +74,7 @@ yarn dev  # or npm run dev
 ## 📌 Live Demo
 🔗 Attached below
 
-https://github.com/user-attachments/assets/4558fa63-7df6-4c4a-ac2e-e49e2841156a
+https://github.com/user-attachments/assets/e3446e7b-8b2b-43da-8eb3-a0696a33add5
 
 
 
