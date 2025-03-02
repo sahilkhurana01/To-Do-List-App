@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "next build && gh-pages -d out"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "master": "^1.0.11",
+    "next": "^15.1.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  },
+  "homepage": "https://sahilkhurana01.github.io/To-Do-List-App-with-Next.js/"
+}
