@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e3446e7b-8b2b-43da-8eb3-a0696a33add5
+
 # 📝 Next.js To-Do List App
 
 🚀 A simple and efficient **To-Do List App** built with **Next.js** that allows users to **add, edit, delete, and mark tasks as completed**. This project helped me explore the power of **Next.js, React Hooks, Local Storage, and Tailwind CSS**.
